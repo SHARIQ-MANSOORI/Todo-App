@@ -1,16 +1,82 @@
-# React + Vite
+# 📝 Notion-Style Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A minimalist, Notion-inspired Todo App built with React.  
+Easily add, edit, complete, and delete your tasks with a beautiful, responsive UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## React Compiler
+- **Add Tasks:** Quickly add new todos.
+- **Edit Tasks:** Click to edit any task in place.
+- **Mark Complete:** Check off tasks as you finish them.
+- **Delete Tasks:** Remove tasks you no longer need.
+- **Persistent:** Tasks are saved in your browser (localStorage).
+- **Notion-like UI:** Clean, modern, and responsive design using Tailwind CSS.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🚀 Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/todo-app.git
+cd todo-app
+```
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Start the development server
+
+```bash
+npm start
+```
+
+Open [http://localhost:3000](http://localhost:3000) to view the app in your browser.
+
+---
+
+## 🖼️ Screenshots
+
+![Screenshot of Notion-style Todo App](screenshot.png)
+
+---
+
+## 🛠️ Built With
+
+- [React](https://react.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+
+---
+
+## 📦 Deployment
+
+You can deploy this app for free using platforms like [Vercel](https://vercel.com/), [Netlify](https://netlify.com/), or [GitHub Pages](https://pages.github.com/).
+
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+## 🙌 Acknowledgements
+
+- Inspired by [Notion](https://www.notion.so/) UI.
+- Icons from [Heroicons](https://heroicons.com/).
+
+---
+
+## 💡 Customization
+
+Feel free to fork and customize the app to fit your workflow!
+
+---
+
+**Enjoy your organized life!**
