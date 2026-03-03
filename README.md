@@ -5,6 +5,12 @@ Easily add, edit, complete, and delete your tasks with a beautiful, responsive U
 
 ---
 
+## 🚀 Live Demo
+
+👉 [Try the app here!](https://todo-app-weld-gamma-85.vercel.app/)
+
+---
+
 ## ✨ Features
 
 - **Add Tasks:** Quickly add new todos.
@@ -16,7 +22,7 @@ Easily add, edit, complete, and delete your tasks with a beautiful, responsive U
 
 ---
 
-## 🚀 Getting Started
+## 🛠️ Getting Started Locally
 
 ### 1. Clone the repository
 
@@ -47,16 +53,12 @@ Open [http://localhost:3000](http://localhost:3000) to view the app in your brow
 
 ---
 
-## 🛠️ Built With
-
-- [React](https://react.dev/)
-- [Tailwind CSS](https://tailwindcss.com/)
-
----
-
 ## 📦 Deployment
 
-You can deploy this app for free using platforms like [Vercel](https://vercel.com/), [Netlify](https://netlify.com/), or [GitHub Pages](https://pages.github.com/).
+This app is deployed on [Vercel](https://vercel.com/):  
+**[https://todo-app-weld-gamma-85.vercel.app/](https://todo-app-weld-gamma-85.vercel.app/)**
+
+You can also deploy your own version using [Vercel](https://vercel.com/), [Netlify](https://netlify.com/), or [GitHub Pages](https://pages.github.com/).
 
 ---
 
@@ -70,12 +72,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - Inspired by [Notion](https://www.notion.so/) UI.
 - Icons from [Heroicons](https://heroicons.com/).
-
----
-
-## 💡 Customization
-
-Feel free to fork and customize the app to fit your workflow!
 
 ---
 
